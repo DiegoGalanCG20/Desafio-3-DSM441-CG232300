@@ -7,3 +7,5 @@ Nombre: Diego Alberto Canizalez Galán
 Carnet: CG232300
 
 Materia: Desarrollo de Software para Móviles DSM441 G03L
+
+Link video: https://drive.google.com/file/d/1yEk0Pl1oYeEOFSQzD5qtXoYLFZc4wybA/view?usp=sharing
