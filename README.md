@@ -1,4 +1,4 @@
-# AprendeApp - Sistema de Gestión de Recursos
+# AprendeApp - Sistema de Gestión de Recursos desafio 3
 
 Aplicación Android para la gestión de recursos de aprendizaje (libros, videos, artículos).
 
